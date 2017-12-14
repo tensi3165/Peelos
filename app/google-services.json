@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "538459768737",
+    "firebase_url": "https://peelos-8ea3d.firebaseio.com",
+    "project_id": "peelos-8ea3d",
+    "storage_bucket": "peelos-8ea3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538459768737:android:e9c80fa576d1ae29",
+        "android_client_info": {
+          "package_name": "com.thon.anew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538459768737-i93d76vijjdg4363tn20fkne8ilsd3v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv1X-gSlSwSXRYnQPOoaEhvb5DiqQrHB4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
